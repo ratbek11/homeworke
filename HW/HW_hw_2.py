@@ -29,3 +29,5 @@ print(hero.attack())
 print(hero.action())
 print(archi.action())
 print(archi.attack())
+
+git commit -m "Добавлен файл HW_hw_2.py"
